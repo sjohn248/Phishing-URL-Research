@@ -1,1 +1,1 @@
-
+This project was to research three phishing blacklists Google Safe Browsing, OpenPhish, and Phishtank to understand how their databases change overtime. The research covers 250GB of phishing URL data to answer: How each database varies in size of time? If entries later appear in a database after they removed, how long does this take? How often are popular websites mimicked in order to create phishing sites? The database was stored in an SQLite database and we used SQL queries to sort the data, then python helpers to gather results. 
